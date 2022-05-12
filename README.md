@@ -1,6 +1,6 @@
 # Shortcuts for fast typers
 
-If you're a fast typer you keep your indices on f and j, so why waste time using arrows if you can use j/k/l/i and don't move your indices?
+If you're a fast typer you keep your indices on f and j, so why waste time using arrows if you can use j/k/l/i instead?
 
 * Install karabiner elements: https://karabiner-elements.pqrs.org
 * Insert files into configuration folder:  ~/.config/karabiner https://karabiner-elements.pqrs.org/docs/manual/operation/export/
