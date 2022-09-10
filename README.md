@@ -3,7 +3,7 @@
 If you're a fast typer you keep your indices on f and j, so why waste time using arrows if you can use j/k/l/i instead?
 
 * Install karabiner elements: https://karabiner-elements.pqrs.org
-* Insert files into configuration folder:  ~/.config/karabiner https://karabiner-elements.pqrs.org/docs/manual/operation/export/
+* Insert .json files into configuration folder:  ~/.config/karabiner https://karabiner-elements.pqrs.org/docs/manual/operation/export/
 
 _ControlArrows.json_ shortcut
 - press control and use j/k/l/i as your arrow keys. 
