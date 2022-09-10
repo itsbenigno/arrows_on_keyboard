@@ -1,4 +1,4 @@
-# Karabiner-Elements arrows shortcuts for fast typers
+# Karabiner-Elements arrows shortcuts (for fast typers)
 
 If you're a fast typer you keep your indices on f and j, so why waste time using arrows if you can use j/k/l/i instead?
 
